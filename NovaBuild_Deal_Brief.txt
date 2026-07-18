@@ -1,0 +1,103 @@
+## Executive Summary
+* Company: NovaBuild Technologies
+* Sector: Proptech SaaS
+* Funding Requirement: £6m
+* Purpose: Growth financing to accelerate US market expansion
+* Growth Rate: 65% YoY
+* ARR: £8.5m
+* EBITDA: -£1.2m
+* Suggested Product: Senior secured debt
+* Risk Rating: Medium
+* Recommended Lender Type: Specialist Fintech Lenders, Alternative Credit Funds, Venture Debt Providers
+
+## Company Overview
+NovaBuild Technologies is a UK-based proptech SaaS business that provides an AI-driven project management platform for construction firms. The company has demonstrated a high growth stage with a 65% year-over-year increase in revenue, reaching £8.5m in ARR. Despite its strong top-line growth, the company's profitability profile is currently negative, with an EBITDA of -£1.2m.
+
+## Deal Rationale
+The growth financing deal is intended to accelerate NovaBuild Technologies' expansion into the US market. This strategic priority is focused on geographic diversification and rapid scaling, likely driven by the founder's vision and supported by the existing institutional investors. The company's aggressive expansion strategy, coupled with a senior secured debt structure, underscores its ambition to capitalize on the US market opportunity while managing its financing risk profile.
+
+## Financing Requirement
+The company is seeking £6m in growth financing to support its US market expansion. The preferred structure is senior secured debt with a 4-year tenor. The financing will be used to accelerate the company's growth plans, including expanding its sales and marketing efforts in the US market.
+
+## Suggested Debt Structure
+* **Instrument Type:** Senior secured debt, as preferred by the company, to provide a level of comfort for lenders given the company's current negative profitability profile.
+* **Tenor:** A 4-year tenor, as requested, which aligns with the company's growth financing objectives and provides a reasonable timeframe for the company to achieve profitability and meet its debt obligations.
+* **Covenant Themes to Explore:**
+  - **Revenue growth milestones:** To ensure the company is on track to meet its ambitious growth targets, particularly in the US market.
+  - **EBITDA improvement targets:** To monitor the company's progress towards achieving profitability and reducing its reliance on external capital.
+  - **Cash flow and liquidity covenants:** To ensure the company maintains a stable cash position and can meet its debt service obligations.
+  - **Institutional investor support:** To confirm the ongoing backing of the company's existing investors, which could provide an additional layer of comfort for lenders.
+* **Security/Collateral Considerations:**
+  - **Asset-based security:** Consider taking security over the company's assets, such as its intellectual property, software code, and other intangible assets, to provide lenders with a level of protection.
+  - **Cash flow-based collateral:** Explore the possibility of using cash flow-based collateral, such as a cash sweep mechanism, to ensure that a portion of the company's revenue is directed towards debt repayment.
+* **Pricing:** Indicative pricing to be determined during lender discussions based on due diligence, market conditions, and the company's risk profile.
+
+## Initial Lender Considerations
+Based on the company profile and proposed structure, the following types of lenders would suit this deal: Specialist Fintech Lenders, Alternative Credit Funds, and Venture Debt Providers. These lenders have experience in providing growth financing to high-growth, scale-up businesses like NovaBuild Technologies, and can offer a range of financing structures, including senior secured debt.
+
+## Key Strengths
+✔ Strong revenue growth: 65% YoY increase in revenue, reaching £8.5m in ARR
+✔ Founder-led: The company is led by its founder, which can provide a clear vision and direction for the business
+✔ Institutional investor backing: The company has the support of 3 institutional investors, which can provide additional comfort for lenders
+✔ Strong NPS: The company has a strong net promoter score, indicating high customer satisfaction and loyalty
+✔ Ambitious expansion plans: The company has a clear plan for expanding into the US market, which can provide a significant growth opportunity
+
+## Key Risks
+✔ Negative profitability profile: The company's current EBITDA is -£1.2m, which may pose financing risks due to its reliance on external capital
+✔ High growth rate: While the company's high growth rate is a strength, it also poses a risk if the company is unable to sustain its growth trajectory
+✔ Execution risk: The company's aggressive expansion plans pose an execution risk, as the company may face challenges in scaling its business and achieving its growth targets
+✔ Market uncertainty: The US market may pose uncertainties and challenges for the company, including competition, regulatory risks, and market volatility
+
+## Risk Assessment
+Financial Risk: Medium — The company's negative profitability profile, with an EBITDA of -£1.2m, poses a financial risk due to its reliance on external capital to support ongoing operations and expansion plans.
+Execution Risk: High — The company's aggressive expansion plans into the US market pose an execution risk, as the company may face challenges in scaling its business and achieving its growth targets.
+Market Risk: Medium — The US market may pose uncertainties and challenges for the company, including competition, regulatory risks, and market volatility.
+Credit Risk: Medium — The company's high growth rate and negative profitability profile may pose a credit risk, as the company may struggle to meet its debt obligations if it is unable to sustain its growth trajectory.
+Overall Recommendation: Proceed with caution, as the company's high growth rate and negative profitability profile require careful consideration and monitoring to mitigate potential risks.
+
+## Missing Information
+* Cash balance
+* Existing debt obligations
+* Burn rate
+* Gross margin
+* Customer concentration
+* Churn rate
+* Runway
+
+## Questions for Client
+1. What is the company's current cash balance, and how will it be used to support the US market expansion?
+2. What are the company's existing debt obligations, and how will they be managed in conjunction with the proposed senior secured debt?
+3. What is the company's burn rate, and how will it be managed to ensure sufficient cash flow to meet debt obligations?
+4. What is the company's gross margin, and how will it be impacted by the US market expansion?
+5. What is the customer concentration, and how will the company mitigate potential risks associated with a limited customer base?
+6. What is the churn rate, and how will the company maintain customer loyalty and retention in the US market?
+7. What is the company's runway, and how will it be managed to ensure sufficient cash flow to meet debt obligations and support ongoing operations?
+
+## AI Confidence
+Company Extraction: 90%
+Deal Structure: 80%
+Lender Recommendation: 70%
+Overall Confidence: 80%
+The confidence levels are based on the completeness and clarity of the provided information, with lower confidence levels reflecting areas where additional information or clarification is needed.
+
+## Deal Readiness
+Documentation: 
+Business Quality: 
+Financial Health: 
+Growth Potential: 
+Overall: 60/100
+The deal readiness assessment reflects the company's strong growth potential and business quality, but also highlights areas for improvement in terms of financial health and documentation.
+
+## Recommended Next Steps
+Deal team to:
+Review and analyze the company's financial statements and projections
+Conduct due diligence on the company's management team and operations
+Assess the company's market position and competitive landscape
+Evaluate the company's growth potential and expansion plans
+Develop a comprehensive risk assessment and mitigation strategy
+
+## Data Sources
+* Client Intake Notes
+* Company Financial Inputs (as provided)
+* AI Financial Reasoning
+* Internal Debt Structuring Framework
