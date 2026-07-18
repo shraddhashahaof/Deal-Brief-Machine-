@@ -4,6 +4,7 @@ An AI tool that turns raw, unstructured deal intake notes into a structured deal
 
 **Input:** messy notes from an intake call
 **Output:** a formatted deal brief + risk scorecard, ready for team review
+🔴 **[Live App](https://deal-brief-machine.streamlit.app/)** &nbsp;|&nbsp;
 
 ---
 
