@@ -2,9 +2,9 @@
 
 An AI tool that turns raw, unstructured deal intake notes into a structured deal brief and a risk & readiness scorecard — built to replace the 3–4 hours a deal team spends manually compiling this for every new mandate.
 
-**Input:** messy notes from an intake call
-**Output:** a formatted deal brief + risk scorecard, ready for team review
-🔴 **[Live App](https://deal-brief-machine.streamlit.app/)** &nbsp;|&nbsp;
+- **Input:** messy notes from an intake call
+- **Output:** a formatted deal brief + risk scorecard, ready for team review
+- 🔴 **[Live App](https://deal-brief-machine.streamlit.app/)** 
 
 ---
 
