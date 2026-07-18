@@ -80,45 +80,45 @@ Six chained AI calls, each step's output feeding into the next:
 
 ## Input
 
-![Deal Intake Input](01_Input.png)
+![Deal Intake Input](outputs/01_Input.png)
 
 ## Output
 
 ### Step 1 — Intake Normalization
 
-![Step 1](02_Intake_Normalization.png)
+![Step 1](outputs/02_Intake_Normalization.png)
 
 ### Step 2 — Company & Deal Reasoning
 
-![Step 2](03_Company_and_Deal_Reasoning.png)
+![Step 2](outputs/03_Company_and_Deal_Reasoning.png)
 
 ### Step 3 — Financing Structure
 
-![Step 3](04_Financing_Structure.png)
+![Step 3](outputs/04_Financing_Structure.png)
 
 ### Step 4 — Lender Fit Analysis
 
-![Step 4](05_Lender_Fit.png)
+![Step 4](outputs/05_Lender_Fit.png)
 
 ### Step 5 — Final Deal Brief (Part 1)
 
-![Final Deal Brief - Part 1](06_Final_Deal_Brief.png)
+![Final Deal Brief - Part 1](outputs/06_Final_Deal_Brief.png)
 
 ### Step 5 — Final Deal Brief (Part 2)
 
-![Final Deal Brief - Part 2](07_Final_Deal_Brief.png)
+![Final Deal Brief - Part 2](outputs/07_Final_Deal_Brief.png)
 
 ### Key Strengths & Key Risks
 
-![Strengths and Risks](08_Strengths_and_Risks.png)
+![Strengths and Risks](outputs/08_Strengths_and_Risks.png)
 
 ### Step 6 — Risk & Readiness Scorecard (Part 1)
 
-![Risk & Readiness Scorecard - Part 1](09_Risk_and_Readiness_Scorecard.png)
+![Risk & Readiness Scorecard - Part 1](outputs/09_Risk_and_Readiness_Scorecard.png)
 
 ### Step 6 — Risk & Readiness Scorecard (Part 2)
 
-![Risk & Readiness Scorecard - Part 2](10_Risk_and_Readiness_Scorecard.png)
+![Risk & Readiness Scorecard - Part 2](outputs/10_Risk_and_Readiness_Scorecard.png)
 
 The complete generated report can also be downloaded directly from the application as **`NovaBuild_Deal_Brief.txt`**.
 
